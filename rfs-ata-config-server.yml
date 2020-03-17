@@ -1,0 +1,3 @@
+feature-toggles:
+  isFeatureAEnabled: true
+  isFeatureBEnabled: false
